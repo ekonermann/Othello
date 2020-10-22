@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/board.c
+board.h
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/board.h
+math.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/board.h
+stdio.h
+-
+

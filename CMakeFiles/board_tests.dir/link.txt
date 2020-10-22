@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/board_tests.dir/board_tests.cc.o CMakeFiles/board_tests.dir/board.c.o  -o bin/board_tests /usr/local/lib/libgtest.a -lpthread 

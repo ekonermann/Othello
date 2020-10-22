@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/board_demo.dir/board_demo.c.o CMakeFiles/board_demo.dir/board.c.o  -o bin/board_demo -lm 

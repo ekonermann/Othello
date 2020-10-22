@@ -1,0 +1,5 @@
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/CMakeFiles/edit_cache.dir
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/CMakeFiles/board_tests.dir
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/CMakeFiles/board_demo.dir
+/mnt/c/users/Evan Konermann/documents/othello/Milestone_1/CMakeFiles/board_demo2.dir
